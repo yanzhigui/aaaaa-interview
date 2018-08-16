@@ -309,7 +309,7 @@ void byte int long char short float double String StringBuffer StringBuilder Arr
 - 反射中，Class.forName和ClassLoader区别    https://www.jianshu.com/p/50e18a563301
 - String，Stringbuffer，StringBuilder的区别？   https://www.jianshu.com/p/8c724dd28fa4
 - 有没有可能2个不相等的对象有相同的hashcode   
-    >有可能，就是所谓的hashmap的hash冲突
+    >有可能，所以两个对象比较的时候，先比较hashcode，然后在比较equals（）
 - TreeMap的实现原理   https://www.ibm.com/developerworks/cn/java/j-lo-tree/index.html
 
 ### JVM相关   
