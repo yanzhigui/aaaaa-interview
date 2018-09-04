@@ -141,7 +141,9 @@ void byte int long char short float double String StringBuffer StringBuilder Arr
     https://yq.aliyun.com/articles/2371  
 - java动态代理
     >https://www.ibm.com/developerworks/cn/java/j-lo-proxy1/index.html  
+    https://www.ibm.com/developerworks/cn/java/j-lo-proxy2/index.html
     http://www.importnew.com/27772.html
+    
 - 序列化与反序列化 http://www.infoq.com/cn/articles/serialization-and-deserialization
 - public、protected、private以及默认的作用域 https://blog.csdn.net/qq_31686787/article/details/52553974
 - Object类的学习和理解，基本的方法 
